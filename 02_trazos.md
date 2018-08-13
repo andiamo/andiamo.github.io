@@ -15,10 +15,12 @@ Trazos.club es un proyecto de software libre. La plataforma responde a la necesi
 generar una solución tecnológica mediante sistemas de colaboración en tiempo real, a 
 través de los nuevos estándares para la web 2.0
 
-[¡Dibuja con trazos!](http://trazos.club/){:target="_blank"}
+[¡Dibuja con Trazos!](http://trazos.club/){:target="_blank"}
+
+[Tutoriales de Trazos Club en YouTube](https://www.youtube.com/playlist?list=PLLA0_JIKZmaKS1ojlB-VjRwWjsDr5RQh7){:target="_blank"}
 
 [Accedé al código fuente](https://github.com/andiamo/fideos){:target="_blank"}
 
-[Canal de animaciones gif hechas con trazos](https://giphy.com/channel/trazosclub){:target="_blank"}
+[Canal de animaciones gif hechas con Trazos](https://giphy.com/channel/trazosclub){:target="_blank"}
 
 [Instagram de Trazos Club](https://www.instagram.com/trazos.club/){:target="_blank"}
