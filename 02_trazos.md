@@ -1,9 +1,24 @@
 ---
 layout: page
-title: Trazos.club
+title: Trazos Club
 permalink: /trazos/
 ---
 
-Esta es la pagina acerca de Trazos.club
+Es una plataforma web para dibujo colectivo. Una herramienta que busca, 
+a través del trabajo colaborativo y el dibujo de trazos digitales animados en un tiempo 
+simultáneo, propiciar experiencias artísticas y educativas novedosas, atractivas por su 
+carácter lúdico, con amplias posibilidades para trabajar contenidos en el ámbito escolar, 
+y que a su vez entienda la educación artística en un sentido amplio, que abarca la 
+apropiación cotidiana de los lenguajes expresivos.
 
-[Dibuja con trazos!](http://trazos.club/)
+Trazos.club es un proyecto de software libre. La plataforma responde a la necesidad de 
+generar una solución tecnológica mediante sistemas de colaboración en tiempo real, a 
+través de los nuevos estándares para la web 2.0
+
+[¡Dibuja con trazos!](http://trazos.club/){:target="_blank"}
+
+[Accedé al código fuente](https://github.com/andiamo/fideos){:target="_blank"}
+
+[Canal de animaciones gif hechas con trazos](https://giphy.com/channel/trazosclub){:target="_blank"}
+
+[Instagram de Trazos Club](https://www.instagram.com/trazos.club/){:target="_blank"}
