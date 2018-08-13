@@ -13,8 +13,9 @@ entonces, Marcela y otros artistas han utilizado Andiamo en proyectos de dibujo 
 recientemente sirvió de punto de partida para el proyecto web Trazos Club.
 
 Andiamo, al no ser una aplicación para la web, tiene que ser instalada en la computadora 
-(de escritorio o portátil) para poder utilizada. Los paquetes de instalación están 
-[disponibles aquí](https://github.com/andiamo/andiamo/releases){:target="_blank"}. 
+(de escritorio o portátil) para poder utilizada. 
+
+El paquete de instalación de Andiamo lo podés descargar [desde aquí](https://github.com/andiamo/andiamo/releases/download/v08/ANDIAMO-COMPARTIBLE-V08-2017.rar).
 
 Es un proyecto de software libre, y el código fuente del Andiamo está disponible en 
 [GitHub](https://github.com/andiamo/andiamo){:target="_blank"}. 
