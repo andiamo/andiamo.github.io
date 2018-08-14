@@ -5,7 +5,7 @@ permalink: /andiamo/
 ---
 
 Andiamo es una herramienta de software libre para dibujo animado en vivo. Se inició con las exploraciones de 
-Marcela Rapallo y Andrés Colubri del medio de dibujo digital con las plataformas 
+[Marcela Rapallo](http://marcelarapallo.com.ar/){:target="_blank"} y [Andrés Colubri](http://andrescolubri.net/){:target="_blank"} del medio de dibujo digital con las plataformas 
 [Moldeo](http://moldeo.org/){:target="_blank"} y [Processing](https://processing.org/){:target="_blank"}. 
 Andrés Colubri desarrolló el código que luego devino en Andiamo durante su 
 [proyecto de maestría](http://andrescolubri.net/projects/latent){:target="_blank"} de artes mediáticos en la Universidad de California, Los Angeles. Desde 
