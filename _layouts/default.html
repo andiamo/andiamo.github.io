@@ -1,0 +1,37 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} - {{site.title}}</title>
+  <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
+</head>
+
+<body>
+<header>
+    <nav>
+        <ul>
+            <li><a href="{{site.baseurl}}/trazos">Trazos Club</a></li>
+            <li><a href="{{site.baseurl}}/andiamo">Andiamo</a></li>
+            <li><a href="{{site.baseurl}}/comunidad">Comunidad</a></li>
+            <li><a href="{{site.baseurl}}/talleres">Talleres</a></li>
+            <li><a href="{{site.baseurl}}/noticias">Noticias</a></li>            
+        </ul>
+    </nav>
+    <a class="title-a" href="{{site.baseurl}}/"><h1 class="title">{{site.title}}</h1></a>
+</header>
+      
+  
+  {{ content }}
+
+
+<footer>
+    <p><small>{{site.title}} {{site.time | date: '%Y'}}</small></p>
+    <p><small>&nbsp;&#124;&nbsp;Hecho con <span>❤</span> por <a href="http://webjeda.com">webjeda</a></small></p>
+</footer>
+{% include analytics.html %}
+</body>
+</html>
