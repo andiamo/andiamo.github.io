@@ -24,7 +24,7 @@ github_username:  andiamo
 # Build settings
 # Build settings
 markdown: kramdown
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
   
