@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trazos Club listado como recurso favorito"
-date:   2018-08-13 08:00:00 -0400
+date:   2019-10-10 08:00:00 -0400
 categories: trazos update
 ---
 
