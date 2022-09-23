@@ -9,10 +9,10 @@ Andiamo y Trazos Club son plataformas utilizadas por artistas y también por pro
 Para información sobre los próximos talleres presenciales y virtuales de dibujo en escena, animación en tiempo real, y dibujo colectivo, escribí a:
 <a href="mailto:marcelarapallo@gmail.com">marcelarapallo@gmail.com</a>
 
-<iframe height="420" allowfullscreen="allowfullscreen" src="http://www.youtube.com/embed/CmF6Bp1ZGfE?modestbranding=1&autohide=1&showinfo=0&controls=0"> </iframe>
+<iframe height="420" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/CmF6Bp1ZGfE?modestbranding=1&autohide=1&showinfo=0&controls=0"> </iframe>
 <sub>Talleres presenciales y virtuales de dibujo en escena, animación en tiempo real, y dibujo colectivo</sub>
 
-<iframe height="420" allowfullscreen="allowfullscreen" src="http://www.youtube.com/embed/J2PJkUiB0lY?modestbranding=1&autohide=1&showinfo=0&controls=0"> </iframe>
+<iframe height="420" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/J2PJkUiB0lY?modestbranding=1&autohide=1&showinfo=0&controls=0"> </iframe>
 <sub>Actividades participativas en los Juegos Olímpicos de la Juventud (2018)</sub>
 
 [Artículo sobre las experiencias virtuales de Dibujo en red](https://www.articaonline.com/2019/02/experiencias-colectivas-de-dibujo-en-red/)
