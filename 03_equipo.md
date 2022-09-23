@@ -4,9 +4,9 @@ title: Equipo
 permalink: /equipo/
 ---
 
-<img src="{{site.baseurl}}/images/andy.png" width="150" alt="Trazos">
-<img src="{{site.baseurl}}/images/barce.png" width="150" alt="Trazos">
-<img src="{{site.baseurl}}/images/gaz.png" width="150" alt="Trazos">
+<img class="team" src="{{site.baseurl}}/images/andy.png" width="150" alt="Trazos">
+<img class="team" src="{{site.baseurl}}/images/barce.png" width="150" alt="Trazos">
+<img class="team" src="{{site.baseurl}}/images/gaz.png" width="150" alt="Trazos">
 
 Andiamo Live es el sitio que reúne las experiencias realizadas en torno a las plataformas Andiamo y Trazos Club.
 

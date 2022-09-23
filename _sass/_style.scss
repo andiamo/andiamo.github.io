@@ -162,3 +162,8 @@ footer {
     }
 }
 
+img.team {
+    @include media-query($on-palm) {
+        width: 33%;
+    }
+}
