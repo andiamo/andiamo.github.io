@@ -4,7 +4,7 @@ title: Comunidad
 permalink: /comunidad/
 ---
 
-<iframe height="420" allowfullscreen="allowfullscreen" src="http://www.youtube.com/embed/TkzNKzoxZ88?modestbranding=1&autohide=1&showinfo=0&controls=0"> </iframe>
+<iframe height="420" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/TkzNKzoxZ88?modestbranding=1&autohide=1&showinfo=0&controls=0"> </iframe>
 <sub>Epígrafe: Trazos Club Jam. Encuentros abiertos de dibujo en vivo colaborativo (2019)</sub>
 
 Andiamo y Trazos Club son tecnologías de Software Libre pensadas para el dibujo en vivo. Nuestro principal objetivo es propiciar experiencias artísticas, educativas y de investigación, por eso compartimos estos programas de manera gratuita para que puedan utilizarlos todas las personas desde cualquier lugar.
