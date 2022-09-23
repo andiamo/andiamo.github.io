@@ -4,7 +4,7 @@ title: Andiamo
 permalink: /andiamo/
 ---
 
-{% youtube fc0h6F1tcdY %}
+<iframe height="420" allowfullscreen="allowfullscreen" src="http://www.youtube.com/embed/fc0h6F1tcdY?modestbranding=1&autohide=1&showinfo=0&controls=0"> </iframe>
 <sub>Performance de dibujo en vivo con Andiamo en el Centro Cultural de la Ciencia (2017)</sub>
 
 

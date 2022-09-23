@@ -5,7 +5,8 @@ permalink: /trazos/
 ---
 
 <a href="http://trazos.club" target="_blank"><img src="{{site.baseurl}}/images/logo-trazos.png" height="40" alt="Trazos"></a>
-{% youtube QGEJZuXsIsc %}
+
+<iframe height="420" allowfullscreen="allowfullscreen" src="http://www.youtube.com/embed/QGEJZuXsIsc?modestbranding=1&autohide=1&showinfo=0&controls=0"> </iframe>
 <sub>Trazos y ritmo. Actividad participativa con Trazos Club en Centro Cultural de la Ciencia (2017)</sub>
 
 Es una plataforma web para dibujo colectivo. Una herramienta que busca, a través del trabajo colaborativo y el dibujo de trazos digitales animados en un tiempo simultáneo, propiciar experiencias artísticas y educativas novedosas, atractivas por su carácter lúdico, con amplias posibilidades para trabajar contenidos en el ámbito escolar, y que a su vez entienda la educación artística en un sentido amplio, que abarca la apropiación cotidiana de los lenguajes expresivos.
